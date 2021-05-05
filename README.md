@@ -8,8 +8,8 @@
 ```cmd
 > pkg install git
 > pkg install nodejs
-> git clone https://github.com/megaa4282/Selfbot-whatsapp.git
-> cd Selfbot-whatsapp
+> git clone https://github.com/michaelagam03/tempest.git
+> cd tempest
 > bash install.sh
 > npm start
 ```
@@ -19,15 +19,15 @@
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/megaa4282/Selfbot-whatsapp.git
-> cd Selfbot-whatsapp
+> git clone https://github.com/michaelagam03/tempest.git
+> cd tempest
 > npm i
 > npm start
 > scan qr
 ```
 
 ## Edit config file
-Edit the required value in [`config.json`](https://github.com/Megaa4282/Simple-selfbotwa/blob/master/config.json)
+Edit the required value in [`config.json`](https://github.com/michaelagam03/tempest/blob/master/config.json)
 ```json
 {
     "owner": "628xxxxxxx",
@@ -112,10 +112,5 @@ Edit the required value in [`config.json`](https://github.com/Megaa4282/Simple-s
 * AND MORE, CEK SENDIRI!
 
 ## Join Group
-* [`My Group`](https://chat.whatsapp.com/JYb7i2b4GbICa0fk17KHOk)
+* [`My Group`](https://chat.whatsapp.com/HN6Hgv8oRegG1GOTUE5HjU)
 
-## Thanks to
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`LolHuman`](https://github.com/LoL-Human)
-* [`Lindow`](https://github.com/mccnlight)
-* [`Fazone`](https://github.com/fazonetea)
